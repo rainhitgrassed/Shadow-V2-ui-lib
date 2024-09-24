@@ -430,7 +430,7 @@ function initLibrary()
                 BackgroundColor3 = Color3.fromRGB(255, 255, 255),
                 FontSize = Enum.FontSize.Size14,
                 TextSize = 14,
-                TextColor3 = Color3.fromRGB(255, 255, 255),
+                TextColor3 = Color3.fromRGB(127, 1, 232),
                 Text = name,
                 Font = toggled and Enum.Font.GothamSemibold or Enum.Font.Gotham,
                 Parent = tabTogglesHolder
